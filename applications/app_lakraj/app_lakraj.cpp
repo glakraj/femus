@@ -1,4 +1,7 @@
- 
-int main(){
-  return 0;
+
+#include <cstdio>
+
+int main() {
+  printf("Hellow TTU");
+ return 0;
 }
